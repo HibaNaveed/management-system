@@ -1,0 +1,721 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restaurant_Management.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Restaurant_Management.ygkjmrb9k5.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\chefs\\chefs-1.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\chefs\\chefs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\chefs\\chefs-2.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\chefs\\chefs-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\chefs\\chefs-3.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\chefs\\chefs-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\events-bg.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\events-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\events-slider\\events-slider-1.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\events-slider\\events-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\events-slider\\events-slider-2.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\events-slider\\events-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\events-slider\\events-slider-3.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\events-slider\\events-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\gallery\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\gallery\\gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\gallery\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\gallery\\gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\gallery\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\gallery\\gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\gallery\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\gallery\\gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\hero-carousel\\hero-carousel-1.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\hero-carousel\\hero-carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\hero-carousel\\hero-carousel-2.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\hero-carousel\\hero-carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\hero-carousel\\hero-carousel-3.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\hero-carousel\\hero-carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\menu\\bread-barrel.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\menu\\bread-barrel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\menu\\caesar.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\menu\\caesar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\menu\\cake.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\menu\\cake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\menu\\greek-salad.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\menu\\greek-salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\menu\\lobster-bisque.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\menu\\lobster-bisque.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\menu\\lobster-roll.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\menu\\lobster-roll.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\menu\\mozzarella.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\menu\\mozzarella.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\menu\\spinach-salad.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\menu\\spinach-salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\menu\\tuscan-grilled.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\menu\\tuscan-grilled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\reservation.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\reservation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\specials-1.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\specials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\specials-2.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\specials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\specials-3.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\specials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\specials-4.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\specials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\specials-5.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\specials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\testimonials-bg.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\testimonials-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\css\\prb.txt",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\css\\prb.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\Restaurant\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Restaurant\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Asp projects\\Restaurant_Management\\Restaurant_Management\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Restaurant_Management.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Restaurant_Management.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Restaurant_Management.props",
+      "PackagePath": "build\\Restaurant_Management.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Restaurant_Management.props",
+      "PackagePath": "buildMultiTargeting\\Restaurant_Management.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Restaurant_Management.props",
+      "PackagePath": "buildTransitive\\Restaurant_Management.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
